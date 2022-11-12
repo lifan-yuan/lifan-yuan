@@ -3,7 +3,7 @@
 #### I am Lifan Yuan, a senior undergraduate at Huazhong University of Science and Technology.
 
 - 🔭 I’m currently working on trustworthy and efficient NLP systems.
-- 💻 I’m one of the developers and the main maintainer of [OpenBackdoor](https://github.com/thunlp/OpenBackdoor).
+- 💻 I’m one of the main developers and maintainers of [OpenBackdoor](https://github.com/thunlp/OpenBackdoor).
 - ⚡ I’m a sports fan, especially fond of basketball🏀.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
