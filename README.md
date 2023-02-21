@@ -9,6 +9,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: <lievanyuan173@gmail.com>
 <!-- - 😄 Pronouns: ... -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifan-yuan)
