@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I am Lifan Yuan, a senior undergraduate at Huazhong University of Science and Technology.
+#### I am Lifan Yuan, an NLPer at Tsinghua NLP & UIUC NLP.
 
-- 🔭 I’m currently working on trustworthy and efficient NLP systems.
+- 🔭 I’m currently interested in building foundation models via alignment and tool augmentation🛠.
 - 💻 I’m one of the main developers and maintainers of [OpenBackdoor](https://github.com/thunlp/OpenBackdoor).
 - ⚡ I’m a sports fan, especially fond of basketball🏀.
 - 📫 How to reach me: <lievanyuan173@gmail.com>
